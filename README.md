@@ -2,12 +2,7 @@
 
 主にゲーム開発者で、組み込み開発と挑戦中。
 
-- 🔭 I’m currently working on ゲーム開発
-- 🌱 I’m currently learning 組み込み開発
-- 👯 I’m looking to collaborate on 他社のゲーム（契約やフリーランス）
-- 💬 Ask me about C言語、アセンブリ言語、C++
-- 📫 How to reach me: https://x.com/TechSuwako | suwako アットマーク ０７６ 点 萌
-- ⚡ Fun fact: ところで、あたしはロリ
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalSuwako&theme=radical&layout=pie&langs_count=20&disable_animations=true&custom_title=%E6%9C%80%E3%82%82%E4%BD%BF%E3%81%86%E8%A8%80&hide=html,css,roff,shell,makefile)
 
 <h3 align="left">Buy me meat:</h3>
 <p align="left">
