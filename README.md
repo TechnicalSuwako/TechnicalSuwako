@@ -42,7 +42,7 @@
 
 <p align="left">
   <img src="https://ass.technicalsuwako.moe/proglang/asm.png" alt="Assembly" width="40" height="40" />
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/clang.png" alt="C" width="40" height="40" />
   </a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
