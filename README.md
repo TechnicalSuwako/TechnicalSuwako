@@ -88,3 +88,10 @@
     <img src="https://ass.technicalsuwako.moe/m64.png" alt="M64" height="40" />
   </a>
 </p>
+
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  <a href="https://verify.openedg.org/?id=Bsro.ouT8.MOWX">
+    <img style="width: 200px;" src="https://ass.technicalsuwako.moe/cla.png" />
+  </a>
+</p>
