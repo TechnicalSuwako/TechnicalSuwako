@@ -69,6 +69,8 @@
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/opengl.png" alt="OpenGL" height="40" />
   </a>
+  NVN
+  NintendoWare
 </p>
 
 <p align="left">
