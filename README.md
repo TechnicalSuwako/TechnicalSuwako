@@ -32,12 +32,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.autodesk.com/jp/products/maya/overview" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/autodesk-maya-logo.png" alt="Maya" width="40" height="40" />
-  </a>
-</p>
-
-<p align="left">
   <img src="https://ass.technicalsuwako.moe/proglang/asm.png" alt="Assembly" width="40" height="40" />
   <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/clang.png" alt="C" width="40" height="40" />
@@ -71,6 +65,27 @@
   </a>
   NVN
   NintendoWare
+</p>
+
+<p align="left">
+  <a href="https://www.autodesk.com/jp/products/maya/overview" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/autodesk-maya-logo.png" alt="Maya" width="40" height="40" />
+  </a>
+  <a href="https://www.maxon.net/en/zbrush" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/zbrush.png" alt="Zbrush" width="40" height="40" />
+  </a>
+  <a href="https://www.adobe.com/products/substance3d/apps/painter.html" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/adobe-substance-3d-painter-logo.png" alt="Substance 3D Painter" width="40" height="40" />
+  </a>
+  <a href="https://www.clipstudio.net/ja/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/clip-studio-paint.png" alt="Clip Studio Paint" width="40" height="40" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/blender.png" alt="Blender" width="40" height="40" />
+  </a>
+  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/aseprite.png" alt="Aseprite" width="40" height="40" />
+  </a>
 </p>
 
 <p align="left">
