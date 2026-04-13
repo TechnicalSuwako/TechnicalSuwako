@@ -28,9 +28,6 @@
   <a href="https://sns.076.moe/@suwako" target="blank">
     <img align="center" src="https://technicalsuwako.moe/static/sns/mitra.png" alt="@suwako@sns.076.moe" height="40" width="40" />
   </a>
-  <a href="https://video.076.moe/a/suwako" target="blank">
-    <img align="center" src="https://technicalsuwako.moe/static/sns/peertube.png" alt="@suwako@video.076.moe" height="40" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
