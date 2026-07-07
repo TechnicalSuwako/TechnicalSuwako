@@ -2,7 +2,7 @@
 
 主にゲーム開発者で、組み込み開発と挑戦中。
 
-![](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&locale=ja&layout=compact&hide=html,css,markdown,roff,shell,makefile&langs_count=20&theme=dark)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&locale=ja&layout=compact&hide=html,css,cmake,markdown,roff,shell,makefile&langs_count=20&theme=dark)
 
 <h3 align="left">Buy me meat:</h3>
 <p align="left">
