@@ -2,7 +2,7 @@
 
 主にゲーム開発者で、組み込み開発と挑戦中。
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&layout=compact&hide=html,css,cmake,markdown,roff,shell,makefile&langs_count=20&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&layout=compact&hide=html,css,cmake,markdown,roff,shell,makefile&langs_count=20&theme=synthwave)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&layout=compact&hide=html,css,cmake,markdown,roff,shell,makefile,objective-c,rust,odin,zig&langs_count=20&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&layout=compact&hide=html,css,cmake,markdown,roff,shell,makefile,objective-c,rust,odin,zig&langs_count=20&theme=synthwave)
 
 <h3 align="left">Buy me meat:</h3>
 <p align="left">
