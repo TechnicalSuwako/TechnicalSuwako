@@ -25,9 +25,6 @@
   <a href="https://technicalsuwako.moe/blog.atom" target="blank">
     <img align="center" src="https://technicalsuwako.moe/static/sns/rss.png" alt="https://technicalsuwako.moe/blog.atom" height="40" width="40" />
   </a>
-  <a href="https://sns.076.moe/@suwako" target="blank">
-    <img align="center" src="https://technicalsuwako.moe/static/sns/mitra.png" alt="@suwako@sns.076.moe" height="40" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,9 +35,6 @@
   </a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/cpplang.png" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/golang.png" alt="Go" width="40" height="40" />
   </a>
   <a href="https://docs.vulkan.org/glsl/latest/index.html" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/glsl.png" alt="GLSL" width="40" height="40" />
