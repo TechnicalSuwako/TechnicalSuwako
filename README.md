@@ -23,9 +23,6 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/techsuwako" target="blank">
-    <img align="center" src="https://technicalsuwako.moe/static/sns/x.png" alt="@TechSuwako" height="40" width="40" />
-  </a>
   <a href="https://technicalsuwako.moe/blog.atom" target="blank">
     <img align="center" src="https://technicalsuwako.moe/static/sns/rss.png" alt="https://technicalsuwako.moe/blog.atom" height="40" width="40" />
   </a>
@@ -33,33 +30,36 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/cpplang.png" alt="C++" width="40" height="40" />
+  </a>
   <img src="https://ass.technicalsuwako.moe/proglang/asm.png" alt="Assembly" width="40" height="40" />
   <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/clang.png" alt="C" width="40" height="40" />
   </a>
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/cpplang.png" alt="C++" width="40" height="40" />
+</p>
+
+<p align="left">
+  <a href="https://shader-slang.org/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/slang.png" alt="Slang" width="40" height="40" />
   </a>
   <a href="https://docs.vulkan.org/glsl/latest/index.html" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/glsl.png" alt="GLSL" width="40" height="40" />
   </a>
-  <a href="https://shader-slang.org/" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/slang.png" alt="Slang" width="40" height="40" />
-  </a>
 </p>
 
 <p align="left">
-  <a href="https://www.openbsd.org/" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/openbsd.png" alt="OpenBSD" width="40" height="40" />
-  </a>
-  <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/freebsd.png" alt="FreeBSD" width="40" height="40" />
-  </a>
   <a href="https://www.microsoft.com/ja-jp/windows/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/windows.png" alt="Windows 11" width="40" height="40" />
   </a>
   <a href="https://www.apple.com/jp/mac/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/apple.png" alt="macOS" width="40" height="40" />
+  </a>
+  <a href="https://www.openbsd.org/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/openbsd.png" alt="OpenBSD" width="40" height="40" />
+  </a>
+  <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/freebsd.png" alt="FreeBSD" width="40" height="40" />
   </a>
 </p>
 
@@ -67,20 +67,26 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/vulkan.png" alt="Vulkan" height="40" height="40" />
   </a>
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/opengl.png" alt="OpenGL" height="40" />
-  </a>
   <a href="https://www.nvidia.com/ja-jp/" target="_blank" rel="noreffer">
     NVN
   </a>
   <a href="https://developer.nintendo.com/ja/home" target="_blank" rel="noreffer">
     NintendoWare
   </a>
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/opengl.png" alt="OpenGL" height="40" />
+  </a>
 </p>
 
 <p align="left">
   <a href="https://visualstudio.microsoft.com/ja/downloads/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/vs2026.png" alt="Visual Studio" width="40" height="40" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/blender.png" alt="Blender" width="40" height="40" />
+  </a>
+  <a href="https://www.clipstudio.net/ja/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/clip-studio-paint.png" alt="Clip Studio Paint" width="40" height="40" />
   </a>
   <a href="https://www.autodesk.com/jp/products/maya/overview" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/autodesk-maya-logo.png" alt="Maya" width="40" height="40" />
@@ -90,12 +96,6 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
   </a>
   <a href="https://www.adobe.com/products/substance3d/apps/painter.html" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/adobe-substance-3d-painter-logo.png" alt="Substance 3D Painter" width="40" height="40" />
-  </a>
-  <a href="https://www.clipstudio.net/ja/" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/clip-studio-paint.png" alt="Clip Studio Paint" width="40" height="40" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://ass.technicalsuwako.moe/blender.png" alt="Blender" width="40" height="40" />
   </a>
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/aseprite.png" alt="Aseprite" width="40" height="40" />
