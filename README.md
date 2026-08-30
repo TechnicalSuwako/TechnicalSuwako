@@ -2,7 +2,11 @@
 
 主にゲーム開発者で、組み込み開発と挑戦中。
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&layout=compact&hide=html,css,cmake,markdown,roff,shell,makefile,objective-c,rust,odin,zig&langs_count=20&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=TechnicalSuwako&layout=compact&hide=html,css,cmake,markdown,roff,shell,makefile,objective-c,rust,odin,zig&langs_count=20&theme=omni)
+オープンソースを辞めた。\
+残っているオープンソースプロジェクトは[Gitler](https://gitler.moe/suwako)までご覧下さい。
+
+I quit open source.\
+For seeing my remaining open source project, please go to [Gitler](https://gitler.moe/suwako).
 
 <h3 align="left">Buy me meat:</h3>
 <p align="left">
@@ -38,6 +42,9 @@
   </a>
   <a href="https://docs.vulkan.org/glsl/latest/index.html" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/glsl.png" alt="GLSL" width="40" height="40" />
+  </a>
+  <a href="[https://docs.vulkan.org/glsl/latest/index.html](https://shader-slang.org/)" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/slang.png" alt="Slang" width="40" height="40" />
   </a>
 </p>
 
