@@ -43,7 +43,7 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
   <a href="https://docs.vulkan.org/glsl/latest/index.html" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/glsl.png" alt="GLSL" width="40" height="40" />
   </a>
-  <a href="[https://docs.vulkan.org/glsl/latest/index.html](https://shader-slang.org/)" target="_blank" rel="noreferrer">
+  <a href="https://shader-slang.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/slang.png" alt="Slang" width="40" height="40" />
   </a>
 </p>
@@ -52,8 +52,14 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
   <a href="https://www.openbsd.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/openbsd.png" alt="OpenBSD" width="40" height="40" />
   </a>
-  <a href="https://www.freebsd.org" target="_blank" rel="noreferrer">
+  <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/freebsd.png" alt="FreeBSD" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/ja-jp/windows/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/windows.png" alt="Windows 11" width="40" height="40" />
+  </a>
+  <a href="https://www.apple.com/jp/mac/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/apple.png" alt="macOS" width="40" height="40" />
   </a>
 </p>
 
@@ -64,11 +70,18 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/opengl.png" alt="OpenGL" height="40" />
   </a>
-  NVN
-  NintendoWare
+  <a href="https://www.nvidia.com/ja-jp/" target="_blank" rel="noreffer">
+    NVN
+  </a>
+  <a href="https://developer.nintendo.com/ja/home" target="_blank" rel="noreffer">
+    NintendoWare
+  </a>
 </p>
 
 <p align="left">
+  <a href="https://visualstudio.microsoft.com/ja/downloads/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/vs2026.png" alt="Visual Studio" width="40" height="40" />
+  </a>
   <a href="https://www.autodesk.com/jp/products/maya/overview" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/autodesk-maya-logo.png" alt="Maya" width="40" height="40" />
   </a>
@@ -86,6 +99,9 @@ For seeing my remaining open source project, please go to [Gitler](https://gitle
   </a>
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
     <img src="https://ass.technicalsuwako.moe/aseprite.png" alt="Aseprite" width="40" height="40" />
+  </a>
+  <a href="https://www.reaper.fm/" target="_blank" rel="noreferrer">
+    <img src="https://ass.technicalsuwako.moe/reaper.png" alt="Reaper" width="40" height="40" />
   </a>
 </p>
 
